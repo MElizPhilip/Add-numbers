@@ -9,4 +9,4 @@ num2 = st.number_input("Enter second number", value=0)
 
 # Display sum
 if st.button("Calculate Sum"):
-    st.success(f"The sum is: {num1 + num2}")
+    st.success(f"Sum : {num1 + num2}")
